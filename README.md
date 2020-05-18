@@ -12,6 +12,7 @@ Report bugs to the issues section or direct message me via discord @ ic3#0001
 - [ ] Fix rbx-join not working with hide usernames on
 - [ ] Save the PlaceId content
 - [ ] Add the games section
+- [ ] Add Re-auth option to accounts context menu
 
 # Preview
 ![github-large](Images/Image1.png)
